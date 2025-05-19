@@ -20,8 +20,8 @@ Ferramenta PHP para **comparação de estrutura**, **sincronização de dados** 
   - Permite sincronizar o conteúdo de tabelas específicas
   - Gera comandos `INSERT`, `UPDATE`, e `DELETE` para alinhar os dados
 
-- ✅ **Backup Automático do Banco Destino**
-  - Antes de gerar qualquer script, o sistema salva um dump completo do banco destino
+- ✅ **Backup Automático dos Bancos**
+  - Antes de gerar qualquer script, o sistema salva um dump completo dos bancos
   - O backup é salvo dentro da pasta da versão utilizada
 
 ---
@@ -67,7 +67,7 @@ $tabelasSincronizarDados = ['parametros', 'categorias']; // Liste apenas se dese
 
 ## 🚀 Como Usar
 
-1. Execute o script via navegador ou terminal.
+1. Execute o script via navegador ou terminal. Gere uma versão antes de qualquer coisa
 2. O sistema criará:
    - **Backup Completo** do banco destino
    - **Scripts** de atualização e rollback
