@@ -7,7 +7,7 @@ Ferramenta PHP para **comparação de estrutura**, **sincronização de dados** 
 # Ajude o Projeto a continuar, faça uma doação no PIX!
 
     e91d07f8-f335-4d7b-b84b-a79ec09d893f
-
+![QR Code Pix](pix.png)
 ---
 ## ✨ Funcionalidades
 
