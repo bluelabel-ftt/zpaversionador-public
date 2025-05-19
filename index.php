@@ -404,7 +404,10 @@
                 Cancelar</button>
         </div>
     </div>
+    <footer class="mt-4 text-center text-muted">
+        <small>ZPA Etiquetas &copy; <?= date('Y') ?> - Todos os direitos reservados.</small>
 
+    </footer>
 
 </body>
 
