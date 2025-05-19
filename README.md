@@ -2,6 +2,7 @@
 # 🔄 ZPA MySQL Database Structure & Data Comparator
 
 Ferramenta PHP para **comparação de estrutura**, **sincronização de dados** e **backup automático** entre dois bancos de dados MySQL.
+Para você que possui dificuldade em versionar bancos de dados e acaba tendo que fugir para soluções pagas aqui está a sua solução!
 
 ---
 # Ajude o Projeto a continuar, faça uma doação no PIX!
