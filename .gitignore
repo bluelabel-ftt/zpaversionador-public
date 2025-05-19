@@ -1,0 +1,10 @@
+backups/*
+arquivo.txt
+version_log.txt
+arquivo.txt
+version_log.txt
+arquivo.txt
+*.txt
+version_log.txt
+arquivo.txt
+updates_aplicados.log
