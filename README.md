@@ -42,7 +42,7 @@ Para você que possui dificuldade em versionar bancos de dados e acaba tendo que
 
 ## ⚙️ Configuração
 
-1. **Edite o arquivo `config.php`:**
+1. **Baixe XAMPP (php 8.2) e Edite o arquivo `config.php`:**
 
 ```php
 // Banco de origem (base de referência)
